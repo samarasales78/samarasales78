@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Meu nome é Samara 👋
 
-<!--
-**samarasales78/samarasales78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Finalizei o primeiro período de Análise e Desenvolvimento de Sistemas
+- 🌱 Estou estudando Python, HTML, CSS e JavaScript. 
 
-Here are some ideas to get you started:
+<br>
+<br>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarasales78&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarasales78&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarasales78&theme=jolly&utcOffset=8) |
+| :-: | :-: | :-: | 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarasales78&theme=jolly) | 
+| :-: | 
