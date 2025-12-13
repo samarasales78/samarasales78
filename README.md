@@ -32,7 +32,7 @@
 
 ### 🚀 Projetos em Destaque
 
-| 🧠 Aplicativo de Gestão | 🍽 Restaurant Page | 🐍 Projetos em Python |
+| 🩺 Gestão de Residências | 🍽 Restaurant Page | 🐍 Projeto em Python |
 |------------------------|-------------------|----------------------|
 | Hackathon do HUAC | Site com HTML e CSS | Exercitando Python |
 | [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório](https://github.com/samarasales78/restaurant-page) | [🔗 Ver repositório](https://github.com/samarasales78/python) |
