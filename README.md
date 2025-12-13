@@ -1,7 +1,8 @@
 ## Olá! Meu nome é Samara 👋
 
-- 🔭 Finalizei o primeiro período de Análise e Desenvolvimento de Sistemas
-- 🌱 Estou estudando Python, HTML, CSS e JavaScript. 
+- 📚 Aprofundando lógica de programação
+- 🛠 Criando projetos práticos para o GitHub
+- 🎯 Foco em desenvolvimento web e Python
 
 <br>
 <br>
