@@ -30,6 +30,14 @@
   <a href="https://www.linkedin.com/in/samara-matias-sales-573b43390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+### 🚀 Projetos em Destaque
+
+| 🧠 Aplicativo de Gestão | 🍽 Restaurant Page | 🐍 Projetos em Python |
+|------------------------|-------------------|----------------------|
+| Hackathon do HUAC | Site com HTML e CSS | Exercitando Python |
+| [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório](https://github.com/samarasales78/restaurant-page) | [🔗 Ver repositório](https://github.com/samarasales78/python) |
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarasales78/samarasales78/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarasales78/samarasales78/output/github-contribution-grid-snake-dark.svg">
