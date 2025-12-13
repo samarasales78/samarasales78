@@ -13,10 +13,6 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarasales78&theme=jolly) | 
 | :-: | 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarasales78&show_icons=true&theme=default)
-
-## 🐍 Contributions Snake
 ![Snake animation](https://raw.githubusercontent.com/samarasales78/samarasales78/output/github-contribution-grid-snake.svg)
 
 
