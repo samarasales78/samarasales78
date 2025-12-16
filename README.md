@@ -44,7 +44,7 @@
 </div>
 
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | 🩺 Gestão de Residências | 🍽 Restaurant Page | 🐍 Projeto em Python |
 |------------------------|-------------------|----------------------|
