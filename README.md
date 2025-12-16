@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=waving&height=110&color=A020F0
+
 ## Olá! Meu nome é Samara 👋
 
 - 📚 Aprofundando lógica de programação
