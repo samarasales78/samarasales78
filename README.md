@@ -46,10 +46,10 @@
 
 ### Projetos em Destaque
 
-| 🩺 Gestão de Residências | 🍽 Restaurant Page | 🐍 Projeto em Python |
+| 🩺 Gestão de Residências | 🍽 Restaurant Page | 🌌 Relógio Constelação |
 |------------------------|-------------------|----------------------|
-| Hackathon do HUAC | Site com HTML e CSS | Exercitando Python |
-| [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório](https://github.com/samarasales78/restaurant-page) | [🔗 Ver repositório](https://github.com/samarasales78/python) |
+| Hackathon do HUAC | Site com HTML e CSS | Aplicando JS |
+| [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório](https://github.com/samarasales78/restaurant-page) | [🔗 Ver repositório](https://github.com/samarasales78/relogio-constelacao) |
 
 
 <picture align="center">
