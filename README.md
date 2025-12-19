@@ -1,9 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=A020F0" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=A020F0&width=435&lines=Oi%2C+meu+nome+%C3%A9+Samara!" alt="Typing SVG" /></a>
 
-- 📚 Aprofundando lógica de programação
-- 🛠 Criando projetos práticos para o GitHub
-- 🎯 Foco em desenvolvimento web e Python
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UEPB. Desenvolvo projetos com foco em desenvolvimento web e lógica de programação.
 
 <br>
 <br>
