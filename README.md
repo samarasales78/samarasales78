@@ -7,12 +7,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UEPB. Desenvolv
 <br>
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarasales78&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarasales78&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarasales78&theme=jolly&utcOffset=8) |
-| :-: | :-: | :-: | 
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarasales78&theme=jolly" /> | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samarasales78&theme=jolly" /></a> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarasales78&theme=jolly" /> |
+| :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarasales78&theme=jolly) | 
-| :-: | 
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarasales78&theme=jolly" /> |
+| :-: |
 
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
