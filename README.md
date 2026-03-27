@@ -48,7 +48,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UEPB. Desenvolv
 
 | Gestão de Residências | Restaurant Page | Galeria de Arte |
 |------------------------|-------------------|----------------------|
-| Hackathon do HUAC | Site com HTML e CSS | Aplicando JS |
+| Hackathon do HUAC | Site com HTML e CSS | Site para desenhos |
 | [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório](https://github.com/samarasales78/restaurant-page) | [🔗 Ver repositório](https://github.com/samarasales78/golden-gallery) |
 
 
