@@ -46,10 +46,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UEPB. Desenvolv
 
 ### Projetos em Destaque
 
-| 🩺 Gestão de Residências | 🍽 Restaurant Page | 🌌 Relógio Constelação |
+| Gestão de Residências | Restaurant Page | Galeria de Arte |
 |------------------------|-------------------|----------------------|
 | Hackathon do HUAC | Site com HTML e CSS | Aplicando JS |
-| [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório](https://github.com/samarasales78/restaurant-page) | [🔗 Ver repositório](https://github.com/samarasales78/relogio-constelacao) |
+| [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório](https://github.com/samarasales78/restaurant-page) | [🔗 Ver repositório](https://github.com/samarasales78/golden-gallery) |
 
 
 <picture align="center">
