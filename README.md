@@ -28,7 +28,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UEPB. Desenvolv
 
 ## 
 
-<div> 
+<p align="center">
   <a href="https://instagram.com/samarasales78" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -44,8 +44,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UEPB. Desenvolv
   <a href="https://www.linkedin.com/in/samara-matias-sales-573b43390" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-</div>
+</p>
 
+
+<div align="center">
 
 ### Projetos em Destaque
 
@@ -54,6 +56,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UEPB. Desenvolv
 | Hackathon do HUAC | Site com HTML e CSS | Site para desenhos |
 | [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório](https://github.com/samarasales78/restaurant-page) | [🔗 Ver repositório](https://github.com/samarasales78/golden-gallery) |
 
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarasales78/samarasales78/output/github-contribution-grid-snake-dark.svg">
