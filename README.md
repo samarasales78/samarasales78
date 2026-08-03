@@ -59,7 +59,7 @@ Tenho interesse em desenvolvimento de software, estruturas de dados, algoritmos,
 
 | Gestão de Residências | Biblioteca de Estrutura de Dados | Galeria de Arte |
 |------------------------|-------------------|----------------------|
-| Hackathon do HUAC | Library with Stack, Queue, Linked Lists, BST, AVL, and B-Tree implementations. | Site para meus desenhos |
+| Hackathon do HUAC | Library with Linked Lists, BST, AVL, B-Tree and others implementations. | Site para meus desenhos |
 | [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório](https://github.com/samarasales78/data-structures-library) | [🔗 Ver repositório](https://github.com/samarasales78/golden-galleryTS) |
 
 </div>
