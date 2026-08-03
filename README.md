@@ -1,7 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=A020F0" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=A020F0&width=435&lines=Oi%2C+meu+nome+%C3%A9+Samara!" alt="Typing SVG" /></a>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UEPB. Desenvolvo projetos com foco em desenvolvimento web e lógica de programação.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Estadual da Paraíba (UEPB) e atualmente atuo como estagiária de Analista de Sistemas no Hospital Universitário Alcides Carneiro (HUAC/UFCG).
+
+Tenho interesse em desenvolvimento de software, estruturas de dados, algoritmos, programação orientada a objetos e desenvolvimento web, buscando sempre transformar teoria em projetos práticos.
 
 <br>
 <br>
