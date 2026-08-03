@@ -57,10 +57,10 @@ Tenho interesse em desenvolvimento de software, estruturas de dados, algoritmos,
 
 ### Projetos em Destaque
 
-| Gestão de Residências | Restaurant Page | Galeria de Arte |
+| Gestão de Residências | Biblioteca de Estrutura de Dados | Galeria de Arte |
 |------------------------|-------------------|----------------------|
 | Hackathon do HUAC | Restaurante fictício | Site para meus desenhos |
-| [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório](https://github.com/samarasales78/restaurant-page) | [🔗 Ver repositório](https://github.com/samarasales78/golden-galleryTS) |
+| [🔗 Ver repositório](https://github.com/samarasales78/aplicativo) | [🔗 Ver repositório]([https://github.com/samarasales78/restaurant-page](https://github.com/samarasales78/data-structures-library/tree/main#estruturas-implementadas)) | [🔗 Ver repositório](https://github.com/samarasales78/golden-galleryTS) |
 
 </div>
 
