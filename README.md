@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=A020F0&width=435&lines=Oi%2C+meu+nome+%C3%A9+Samara!" alt="Typing SVG" />
 </a>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Estadual da Paraíba (UEPB), com experiência na área de Análise e Desenvolvimento de Sistemas no Hospital Universitário Alcides Carneiro (HUAC/UFCG).
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Estadual da Paraíba (UEPB), com experiência como estagiária na área de Análise de Sistemas no Hospital Universitário Alcides Carneiro (HUAC/UFCG).
 
 Tenho interesse em desenvolvimento de software, estruturas de dados, algoritmos, programação orientada a objetos e desenvolvimento web, buscando transformar conhecimentos teóricos em soluções e projetos práticos.
 
