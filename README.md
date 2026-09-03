@@ -9,6 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Es
 Tenho interesse em desenvolvimento de software, estruturas de dados, algoritmos, programação orientada a objetos e desenvolvimento web, buscando transformar conhecimentos teóricos em soluções e projetos práticos.
 
 <br>
+<br>
 
 <div align="center">
 
@@ -16,13 +17,8 @@ Tenho interesse em desenvolvimento de software, estruturas de dados, algoritmos,
 | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarasales78&theme=jolly" /> | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samarasales78&theme=jolly" /></a> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarasales78&theme=jolly" /> |
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarasales78&theme=jolly" />
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarasales78&theme=jolly" /> |
+| :-----------------------------------------------------------------------------------------------------------------------: |
 
 </div>
 
@@ -30,60 +26,50 @@ Tenho interesse em desenvolvimento de software, estruturas de dados, algoritmos,
 
 ## Tecnologias
 
-<div align="center">
-
-|           Área           | Tecnologias                                                                 |
-| :----------------------: | :-------------------------------------------------------------------------- |
-|       **Frontend**       | HTML · CSS · JavaScript · TypeScript · React · Vite · Tailwind CSS          |
-|        **Backend**       | C# · .NET · ASP.NET Core · Python · Java · Dart · Flutter                   |
-|   **APIs & Frameworks**  | REST API · ASP.NET Core Web API · Swagger / OpenAPI · Entity Framework Core |
-|    **Banco de Dados**    | PostgreSQL · SQL                                                            |
-| **DevOps & Ferramentas** | Git · GitHub · Docker · Vercel · Render                                     |
-|        **Outros**        | Pixel Art · Recharts · Lucide React · React Icons · Streamlit · Selenium    |
-
-</div>
+| **Category**          | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend**          | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white) |
+| **Backend**           | ![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge\&logo=csharp\&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge\&logo=.net\&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge\&logo=dart\&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)                                |
+| **APIs & Frameworks** | ![REST API](https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge\&logo=fastapi\&logoColor=white) ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-%23512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge\&logo=swagger\&logoColor=black) ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-%23512BD4.svg?style=for-the-badge\&logo=dotnet\&logoColor=white)                                                                                                                                                                                                                                                                                           |
+| **Databases**         | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **DevOps & Tools**    | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=black)                                                                                                                                                                                                                                                                          |
+| **Other**             | ![Pixel Art](https://img.shields.io/badge/Pixel%20Art-%23A020F0.svg?style=for-the-badge) ![Recharts](https://img.shields.io/badge/Recharts-%23A020F0.svg?style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge\&logo=selenium\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 <br>
 
-## Projetos em Destaque
-
-<div align="center">
-
-|                Projeto               | Descrição                                                                                          |                   Tecnologias                   |
-| :----------------------------------: | :------------------------------------------------------------------------------------------------- | :---------------------------------------------: |
-|             **Portfolio**            | Portfólio pessoal com projetos, habilidades técnicas e experiência.                                |            React · TypeScript · Vite            |
-|              **Bookly**              | Plataforma de livros com busca, categorias, progresso de leitura e integração com API.             | React · TypeScript · Tailwind · OpenLibrary API |
-|          **Hospital System**         | Sistema hospitalar com gerenciamento de pacientes, consultas, internações, leitos e profissionais. |   React · TypeScript · C# · .NET · PostgreSQL   |
-| **Consulta Automatizada de Sanções** | Sistema para consulta integrada de bases governamentais e geração de documentos consolidados.      |    C# · ASP.NET Core · TypeScript · APIs REST   |
-|      **Data Structures Library**     | Biblioteca com implementações de estruturas como Linked List, BST, AVL e B-Tree.                   |                      Python                     |
-|          **Golden Gallery**          | Galeria digital para apresentação de desenhos e trabalhos artísticos.                              |            TypeScript · React · Vite            |
-
-</div>
-
-<br>
+##
 
 <p align="center">
-  <a href="https://github.com/samarasales78">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://instagram.com/samarasales78" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://instagram.com/samarasales78">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="link" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
-  <a href="mailto:smatiassales@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:smatiassales@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/samara-matias-sales-573b43390">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/samara-matias-sales-573b43390" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
-<br>
+<div align="center">
 
-<picture>
+### Projetos em Destaque
+
+| Portfolio                                                         | Biblioteca de Estrutura de Dados                                            | Galeria de Arte                                                      |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Projects, technical skills, and experience                        | Library with Linked Lists, BST, AVL, B-Tree and others implementations.     | Site para meus desenhos                                              |
+| [Ver repositório](https://github.com/samarasales78/dev-portfolio) | [Ver repositório](https://github.com/samarasales78/data-structures-library) | [Ver repositório](https://github.com/samarasales78/golden-galleryTS) |
+
+</div>
+
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarasales78/samarasales78/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarasales78/samarasales78/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/samarasales78/samarasales78/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samarasales78/samarasales78/output/github-contribution-grid-snake.svg">
 </picture>
