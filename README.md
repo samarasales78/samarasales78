@@ -6,7 +6,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Estadual da Paraíba (UEPB), com experiência como estagiária na área de Análise de Sistemas no Hospital Universitário Alcides Carneiro (HUAC/UFCG).
 
-Tenho interesse em desenvolvimento de software, estruturas de dados, algoritmos, programação orientada a objetos e desenvolvimento web, buscando transformar conhecimentos teóricos em soluções e projetos práticos.
+Tenho interesse em desenvolvimento de software, especialmente na construção de aplicações web full stack, criação e integração de APIs e sistemas orientados a dados. Também busco aprimorar meus conhecimentos em bancos de dados, estruturas de dados, algoritmos e automação, aplicando-os na criação de soluções funcionais, modernas e escaláveis.
 
 <br>
 <br>
