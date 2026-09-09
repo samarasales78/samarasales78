@@ -1,5 +1,5 @@
 <p align="right">
-  🇧🇷 <strong>PT-BR</strong> |
+  <strong>PT-BR</strong> |
   <a href="README.en.md">EN</a> |
   <a href="README.es.md">ES</a>
 </p>
