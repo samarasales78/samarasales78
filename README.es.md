@@ -1,7 +1,7 @@
 <p align="right">
   <a href="README.md">PT-BR</a> |
   <a href="README.en.md">EN</a> |
-  🇪🇸 <strong>ES</strong>
+  <strong>ES</strong>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=A020F0" />
