@@ -44,8 +44,8 @@ Tenho interesse em desenvolvimento de software, especialmente na construção de
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="link" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://dev-portfolio-five-ashy.vercel.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Portfolio-A020F0?style=for-the-badge&logo=vercel&logoColor=white"> 
   </a>
 
   <a href="mailto:smatiassales@gmail.com" target="_blank">
