@@ -1,6 +1,6 @@
 <p align="right">
   <a href="README.md">PT-BR</a> |
-  🇺🇸 <strong>EN</strong> |
+  <strong>EN</strong> |
   <a href="README.es.md">ES</a>
 </p>
 
